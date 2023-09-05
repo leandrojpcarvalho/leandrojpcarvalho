@@ -1,6 +1,6 @@
 ### Hi there, i'm Leandro 👋
 
-i'm a math teacher and programer, i'm degree in Information System since 2009, now i'm ending licency in mathematic, i love programming, but some circunstances has apart me of this area, but i'm return now.
+i'm a math teacher and programer, i'm degree in Information System since 2009, now i'm ending licency in mathematic, i love programming, but some circunstances has apart me of this area, but i'm returning now.
 
 - 🔭 I’m currently working on my own career
 - 🌱 I’m currently learning:
