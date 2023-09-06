@@ -4,20 +4,18 @@
 <div>
   <p>i'm a math teacher and programer, i'm degree in Information System since 2009, now i'm ending licency in mathematic, i love programming, but some circunstances has apart me of this area, but i'm returning now.</p>
 </div>
-<div>
+<div align="center">
   <p>🔭 I’m currently working on my own career</p>
   <div> 🌱 I’m currently learning:
       <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   </div>
-  <p>👯 I’m looking to collaborate on a Project based on Education, Production or Finacial.</p>
-  <p> 🤔 I’m looking for help with Find A Job xD</p>
   <div>
-    
+    <p>👯 I’m looking to collaborate on a Project based on Education, Production or Finacial.</p>
+    <p> 🤔 I’m looking for help with Find A Job xD</p>
   </div>
     I programing in:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  </div>
   <div>
     With:
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -34,6 +32,7 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </div>
+</div>
 </div>
 <hr>
 <div>
