@@ -42,8 +42,14 @@
 <hr>
 <div>
 - 📫 How to reach me(just click on badge):
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" href="mailto:ljpcarvalho@gmail.com"/>
-  <p>ljpcarvalho@gmail.com</p>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://wa.me/5583998639592" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/leandrojpcarvalho/" />
+  <div>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" href="mailto:ljpcarvalho@gmail.com"/>
+    <p>ljpcarvalho@gmail.com</p>
+  </div>
+  <a href="https://wa.me/5583998639592">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <\a>
+  <a href="https://www.linkedin.com/in/leandrojpcarvalho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <\a>
 </div>
