@@ -40,16 +40,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojpcarvalho&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117" width="44%" />
 </div>
 <hr>
-<div>
+<div align=center>
 - 📫 How to reach me(just click on badge):
   <div>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" href="mailto:ljpcarvalho@gmail.com"/>
-    <p>ljpcarvalho@gmail.com</p>
+    <a href="mailto:ljpcarvalho@gmail.com" target="_target">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
+    </a>
+  <a href="https://wa.me/5583998639592" target="_target">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leandrojpcarvalho/" target="_target">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   </div>
-  <a href="https://wa.me/5583998639592">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <\a>
-  <a href="https://www.linkedin.com/in/leandrojpcarvalho/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-  <\a>
+  <p>ljpcarvalho@gmail.com</p>
 </div>
