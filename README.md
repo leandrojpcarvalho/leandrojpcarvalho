@@ -40,9 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojpcarvalho&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117" width="44%" />
 </div>
 <hr>
+<div>
 - 📫 How to reach me(just click on badge):
-  - [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljpcarvalho@gmail.com) ljpcarvalho@gmail.com
-  - [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583998639592)
-  - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrojpcarvalho/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" href="mailto:ljpcarvalho@gmail.com"/>
+  <p>ljpcarvalho@gmail.com</p>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://wa.me/5583998639592" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/leandrojpcarvalho/" />
+</div>
